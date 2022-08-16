@@ -12263,7 +12263,7 @@ li{
 
 .contact .description-list .link-tel {
   width: 11.875rem;
-  background: green url('../assets/img/icon-phone.svg') no-repeat 0 0;
+  background: green url('../assets/images/icon-phone.svg') no-repeat 0 0;
 }
 
 .contact .wrap-description {
@@ -12314,7 +12314,7 @@ a {
 }
 
 .link-kakao {
-  background: #ffe400 url(../assets/img/icon-kakao.svg) no-repeat 0 0;
+  background: #ffe400 url('../assets/images/icon-kakao.svg') no-repeat 0 0;
 }
 
 /* 하단 우측에 고정 카카오톡 링크 */
