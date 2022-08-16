@@ -1,7 +1,0 @@
-<svg width="60" height="61" viewBox="0 0 60 61" xmlns="http://www.w3.org/2000/svg">
-    <g fill="none" fill-rule="evenodd">
-        <rect stroke="#CCCFD5" stroke-width="2" fill="#FFF" x="1" y="8" width="51" height="52" rx="1"/>
-        <rect stroke="#CCCFD5" stroke-width="2" fill="#FFF" x="8" y="1" width="51" height="52" rx="1"/>
-        <path d="M42.143 28.348 29.03 36.544a1 1 0 0 1-1.53-.848V19.304a1 1 0 0 1 1.53-.848l13.113 8.196a1 1 0 0 1 0 1.696z" fill="#CCCFD5"/>
-    </g>
-</svg>
